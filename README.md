@@ -73,3 +73,5 @@ Open Terminal in project folder and run: npm run test
     - In .env file add: ACCOUNT_MNEMONIC="[[**enter your account mnemonic**]]"
     - In .env file add: INFURA_URL="[[**enter your your Infura URL**]]"
 2. Open Terminal in project folder and run: npm run deploy
+
+#### See web app repo [https://github.com/AmitNinoMoveo/Web3-Study-Lottery-Frontend](here)

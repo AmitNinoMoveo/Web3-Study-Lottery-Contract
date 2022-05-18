@@ -1,7 +1,9 @@
-# Inbox Smart Contract
+# Lottery Smart Contract
 
 This is a smart contract deployed on the Rinkeby Network, an Ethereum test network.
 Created for learning purposes.
+This contract allows accounts to enter the lottery pool for a small fee.
+Once the manager calls the pickWinner() method, one of the accounts in the pool will be selected as the winner and be rewarded with all the eth received by the other players in the pool.
 
 #### Practiced Technologies
 
